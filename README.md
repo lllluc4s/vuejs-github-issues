@@ -1,6 +1,6 @@
 # vue-do-jeito-ninja
 
-> Projeto Vue do Jeito Ninja
+> GitHub Issues
 
 ## Build Setup
 
