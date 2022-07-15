@@ -1,6 +1,6 @@
-# vue-do-jeito-ninja
+# GitHub Issues
 
-> GitHub Issues
+
 
 ## Build Setup
 
