@@ -1,5 +1,5 @@
 <template>
-  <div class="container ">
+  <div class="container">
     <h1 class="title">VueJS | GitHub</h1>
     <p class="lead">
       Aplicação que lista issues de um repositório do GitHub, usando VueJS.
@@ -182,26 +182,25 @@ export default {
 </script>
 
 <style>
-
-body{
-  background-image: linear-gradient(to right, grey , silver);
+body {
+  background-image: linear-gradient(to right, grey, silver);
 }
 
 .title {
-	display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 5rem;
   margin-top: 2rem;
 }
 
-.lead{
+.lead {
   margin-bottom: 2rem;
   margin-top: 8rem;
   text-align: center;
 }
 
-.form-group{
+.form-group {
   display: flex;
   align-content: center;
   justify-content: center;
@@ -209,20 +208,19 @@ body{
   text-align: center;
 }
 
-.inputs{
+.inputs {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 2rem;
 }
 
-button{
-  margin-left: .5rem;
-  margin-right: .5rem;
+button {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
 }
 
-th{
+th {
   text-align: center;
 }
-
 </style>
